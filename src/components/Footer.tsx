@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
                 <AnimatedComponent delay={0.1}>
                     <div className="mb-8 lg:mb-0">
                         <div className='flex items-center'>
-                            <img src="./assets/logo.png" alt="Logo" className="w-15 mb-4" />
+                            <img src="./assets/Logo.png" alt="Logo" className="w-15 mb-4" />
                             <h2 className="font-serif text-2xl font-bold mb-4">uifry</h2>
                         </div>
                         <p className="text-gray-700 mb-2 flex items-center">
