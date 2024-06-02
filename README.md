@@ -5,7 +5,7 @@
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/project-name.git
+   git clone [https://github.com/your-username/project-name.git](https://github.com/manastechnical/uifry)
 2. Navigate to the project directory:
   cd uifry
 3. Install the dependencies:
