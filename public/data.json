@@ -1,0 +1,102 @@
+{
+    "hero": {
+        "headline": "Make The Best Financial Decisions",
+        "subheadline": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+    },
+    "featureList": [
+        {
+            "img": "./assets/f1.png",
+            "title": "Budgeting Intervals",
+            "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+        },
+        {
+            "img": "./assets/f2.png",
+            "title": "Expense Tracking",
+            "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+        },
+        {
+            "img": "./assets/f3.png",
+            "title": "Financial Reports",
+            "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor."
+        }
+    ],
+    "adv": [
+        {
+            "heading": "Why Choose Uifry",
+            "subheading": "Clever Notifications",
+            "desc": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+            "icon": "./assets/fbell.png"
+        },
+        {
+            "heading": "",
+            "subheading": "Fully Customizable",
+            "desc": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.",
+            "icon": "./assets/fadv.png"
+        }
+    ],
+    "testimonial": {
+        "headline": "What Our Users Say About Us?",
+        "users": [
+            {
+                "name": "Nick Jonas",
+                "heading": "The Best Financial Accounting App Ever!",
+                "desc": "“Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris etiam odio. Duis tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse sit nunc, gravida eu. Lectus eget eget ac dolor neque lorem sapien, suspendisse aliquam.”",
+                "img": "./assets/users.png"
+            }
+        ]
+    },
+    "navLinks": [
+        {
+            "to": "home",
+            "label": "Home"
+        },
+        {
+            "to": "features",
+            "label": "Features"
+        },
+        {
+            "to": "testimonial",
+            "label": "Testimonial"
+        },
+        {
+            "to": "faq",
+            "label": "FAQ"
+        },
+        {
+            "to": "gs",
+            "label": "Get Started"
+        }
+    ],
+    "faqList": [
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "Answer to question 1 goes here.",
+            "color": "rdo"
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "Answer to question 2 goes here.",
+            "color": "white"
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "Answer to question 3 goes here.",
+            "color": "white"
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "Answer to question 4 goes here.",
+            "color": "rdo"
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "Answer to question 5 goes here.",
+            "color": "rdo"
+        },
+        {
+            "question": "The Best Financial Accounting App Ever!",
+            "answer": "Answer to question 6 goes here.",
+            "color": "white"
+        }
+    ]
+}
